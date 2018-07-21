@@ -1,0 +1,11 @@
+.color {
+    color: lightgreen;
+}
+
+.red {
+    color: red !important;
+}
+
+.display {
+    display: none;
+}
